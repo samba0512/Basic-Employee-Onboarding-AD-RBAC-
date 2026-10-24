@@ -1,4 +1,3 @@
-# Northstar Medical Group Active Directory Project
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement

@@ -10,8 +10,7 @@ The project establishes a new Active Directory domain, **NMG.com**, as the found
 
 ## Video Walkthrough
 
-Video walkthrough link
-
+https://www.loom.com/share/06f0b35f68aa40cfa21440fa12458908
 ## Tools Used
 
 - Windows Server
